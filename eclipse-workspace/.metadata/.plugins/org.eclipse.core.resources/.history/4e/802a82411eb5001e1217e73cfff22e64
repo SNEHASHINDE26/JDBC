@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Resgistration Info</title>
+
+</head>
+<body>     
+      <form action ="fifthlink" method="post" style="border:2px solid black; margin:60px; padding:10px 30px;">
+   
+        <h2><u>Register Here</u></h2>
+        <h3>All Fields are mandatory</h3><br>
+   
+        <label>First Name :</label>
+        <input type="text" name="firstname" placeholder="Enter your firstname"/><br></br>
+   
+        <label>Last Name :</label>
+        <input type="text" name="lastname" placeholder="Enter your lastname"/><br></br>
+  
+        <label>Contact No. :</label>
+        <input type="text" name="number" placeholder="Enter your contact number"><br></br>
+  
+        <label>Gender :</label>
+        <input type="radio" name="gender" value="male" check>Male
+        <input type="radio" name="gender" value="female" check>Female<br></br>
+   
+        <label for="Branch">Select Branch :</label>
+          <select name="branch">                 
+                 <option></option>
+                 <option value="cse">CSE</option>
+                 <option value="electrical">ELECTRICAL</option>
+                 <option value="civil">Civil</option>
+                 <option value="it">IT</option>
+                 <option value="mechanical">MECHANICAL</option>
+         
+          </select><br></br>
+   
+          <input type="submit" value="SUBMIT"><br></br> 
+          
+     </form><br>
+             <a href="index.html">Go Back</a>
+</body>
+</html>

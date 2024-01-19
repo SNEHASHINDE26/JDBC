@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;StudentApp/src/main/webapp/Delete.html&apos; to &apos;delete.html&apos;" description="Rename resource &apos;Delete.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/Delete.html" name="delete.html" stamp="1690011181588" updateReferences="true"/>
+</session>

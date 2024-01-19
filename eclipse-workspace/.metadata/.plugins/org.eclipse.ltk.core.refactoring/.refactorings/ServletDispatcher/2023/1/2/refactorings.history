@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Dispatcher.servletDispatcher.java&apos; to &apos;servletDemoe2.java&apos;&#x0D;&#x0A;- Original project: &apos;ServletDispatcher&apos;&#x0D;&#x0A;- Original element: &apos;Dispatcher.servletDispatcher.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Dispatcher.servletDemoe2.java&apos;" description="Rename compilation unit &apos;servletDispatcher.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;Dispatcher{servletDispatcher.java" name="servletDemoe2.java" references="false" stamp="1673520074008" version="1.0"/>
+</session>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>AddMul Page</title>
+</head>
+<body>
+
+       <form action="secondlink" method="POST">
+ 
+         <label>Enter First Number:</label>
+         <input type="text" name="num1"><br></br>
+ 
+         <label>Enter Second number:</label>
+         <input type="text" name="num2"><br></br>
+ 
+         <label>Select :</label>   
+         <input type="submit" name="add" value="Addition"/>
+         <input type ="submit" name="mul" value="Multiplication"/><br></br>
+ 
+      </form><br>
+               <a href="index.html">Go To Home Page</a>
+      
+</body>
+</html>

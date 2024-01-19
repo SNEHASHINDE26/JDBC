@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Emp Info</title>
+</head>
+<body>
+       <form action ="sixthlink"method="post">
+    
+          <label>Emp Name :</label>
+          <input type="text"name="emp"/><br></br>
+   
+          <label>Current Salary :</label>
+          <input type="text" name="sal"/><br></br>
+  
+          <label>Designation :</label>
+        
+            <select>
+                  <option></option>
+                  <option value="HR">HR</option>
+                  <option value="Manager">Manager</option><br></br>
+            </select><br></br>
+ 
+         <input type="submit"value="Get Salary">
+
+       </form><br>
+  
+           <a href="index.html">Go Back</a>
+</body>
+</html>

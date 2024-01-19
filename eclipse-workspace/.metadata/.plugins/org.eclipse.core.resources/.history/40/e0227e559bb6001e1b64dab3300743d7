@@ -1,0 +1,55 @@
+package jdbcTest;
+
+  public class Demo {
+	
+	public double getPassword() {
+		return Password;
+	}
+	
+	public void setPassword(double password) {
+		Password = password;
+	}
+	
+	public int getAge() {
+		return age;
+	}
+	
+	public void setAge(int age) {
+		this.age = age;
+	}
+	
+	public double getCno() {
+		return cno;
+	}
+	
+	public void setCno(double cno) {
+		this.cno = cno;
+	}
+	
+	public String getCity() {
+		return city;
+	}
+	
+	public void setCity(String city) {
+		this.city = city;
+	}
+	
+	public void setUserName(String userName) {
+		UserName = userName;
+	}
+		
+	    private String UserName;
+		private double Password;
+		private int age;
+		private double cno;
+		private String city;
+		
+		public String getUserName() {
+			return  UserName;
+		}
+		
+		public String toString(){
+			return UserName+"\t"+Password+"\t"+age+"\t"+cno+"\t"+city;
+		}
+	}
+		

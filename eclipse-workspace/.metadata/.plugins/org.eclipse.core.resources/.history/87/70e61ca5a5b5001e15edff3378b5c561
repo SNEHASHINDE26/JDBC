@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>TwoNumSubmit</title>
+</head>
+<body>
+       <form action="seventhlink" method="post">
+         
+         <label>Enter First Number:</label>
+         <input type ="text" name ="number1"><br></br>
+
+         <label>Enter Second number:</label>
+         <input type ="text" name ="number2"><br></br>
+ 
+
+         <input type ="submit" value ="addition"/><br></br>
+         
+      
+       </form>
+                <a href="index.html">GoBack</a>
+</body>
+</html>

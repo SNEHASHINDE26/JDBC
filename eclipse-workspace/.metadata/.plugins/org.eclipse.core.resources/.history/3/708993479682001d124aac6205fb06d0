@@ -1,0 +1,34 @@
+package producttest;
+
+import java.util.Scanner;
+
+public class Mainapp {
+
+	public static void main(String[] args) {
+			
+			ProductDemo ps=new ProductDemo();
+			
+	     Scanner sc=new Scanner(System.in);
+	     System.out.println("1.MAXProduct \n2.MIN Product");
+	     int choice=sc.nextInt();
+	     
+	     switch(choice) {
+	     case 1:{
+	    	 System.out.println("Max product: ");
+	    	 int id=sc.nextInt();
+	    	 System.out.println("Entere Name: ");
+	    	 String name=sc.next();
+	    	 System.out.println("Min Product:");
+	    	 int id1=sc.nextInt();
+	    	 System.out.println("Enter Name:");
+	    	 String name1=sc.next();
+	    	 
+	     }
+
+		}
+
+
+
+	}
+
+}
