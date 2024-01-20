@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1354640a-28f8-4bcc-8b8d-dec109fe7dc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hqlProject/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hqlProject/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hqlProject/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hqlProject/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hqlProject/src/hqlProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hqlProject/src" beforeDir="false" afterPath="$PROJECT_DIR$/hqlProject/src" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
